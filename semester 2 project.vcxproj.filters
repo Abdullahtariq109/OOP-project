@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Resource Files\assets">
+      <UniqueIdentifier>{16b22bbc-3bff-4d79-b833-e1ef13d8ed94}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\assets\cell">
+      <UniqueIdentifier>{0f9bd28b-5bfc-402b-b493-a6a60159356c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\assets\goku">
+      <UniqueIdentifier>{7e744080-2db8-4538-ad05-7b1bbde74e0d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\assets\freeza">
+      <UniqueIdentifier>{e6fac029-f0e3-4cc6-9189-acc630bb51b8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\texture loading">
+      <UniqueIdentifier>{30b50905-cffb-4f9f-bddd-1c876d4b9a06}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\logic">
+      <UniqueIdentifier>{133c11e3-3d9f-438f-80fa-b60df57d224b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\helper functions">
+      <UniqueIdentifier>{b9f4f0a6-ff31-4948-9829-b33b84184e83}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\window">
+      <UniqueIdentifier>{184fd237-c7d8-45a0-af4e-399d60b650f8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\animations">
+      <UniqueIdentifier>{f3e8f668-7408-4646-b954-19a36ec70683}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="sfml.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="characters.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Load_cell_Textures.cpp">
+      <Filter>Source Files\texture loading</Filter>
+    </ClCompile>
+    <ClCompile Include="Load_freeza_Textures.cpp">
+      <Filter>Source Files\texture loading</Filter>
+    </ClCompile>
+    <ClCompile Include="Load_goku_Textures.cpp">
+      <Filter>Source Files\texture loading</Filter>
+    </ClCompile>
+    <ClCompile Include="movment.cpp">
+      <Filter>Source Files\logic</Filter>
+    </ClCompile>
+    <ClCompile Include="jumping.cpp">
+      <Filter>Source Files\logic</Filter>
+    </ClCompile>
+    <ClCompile Include="debugging.cpp">
+      <Filter>Source Files\helper functions</Filter>
+    </ClCompile>
+    <ClCompile Include="deltatime.cpp">
+      <Filter>Source Files\helper functions</Filter>
+    </ClCompile>
+    <ClCompile Include="DrawLoop.cpp">
+      <Filter>Source Files\window</Filter>
+    </ClCompile>
+    <ClCompile Include="DisplayWindow.cpp">
+      <Filter>Source Files\window</Filter>
+    </ClCompile>
+    <ClCompile Include="HandleEvents.cpp">
+      <Filter>Source Files\window</Filter>
+    </ClCompile>
+    <ClCompile Include="Basic sfml definitons.cpp">
+      <Filter>Source Files\window</Filter>
+    </ClCompile>
+    <ClCompile Include="SetTexture.cpp">
+      <Filter>Source Files\helper functions</Filter>
+    </ClCompile>
+    <ClCompile Include="resize.cpp">
+      <Filter>Source Files\helper functions</Filter>
+    </ClCompile>
+    <ClCompile Include="MovementAnimation.cpp">
+      <Filter>Source Files\animations</Filter>
+    </ClCompile>
+    <ClCompile Include="IdleAnimation.cpp">
+      <Filter>Source Files\animations</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\..\animation\cell\cell1.png">
+      <Filter>Resource Files\assets\cell</Filter>
+    </Image>
+    <Image Include="..\..\animation\cell\cell2.png">
+      <Filter>Resource Files\assets\cell</Filter>
+    </Image>
+    <Image Include="..\..\animation\cell\cell3.png">
+      <Filter>Resource Files\assets\cell</Filter>
+    </Image>
+    <Image Include="..\..\animation\cell\cell4.png">
+      <Filter>Resource Files\assets\cell</Filter>
+    </Image>
+    <Image Include="..\..\..\Downloads\goku\goku4.png">
+      <Filter>Resource Files\assets\goku</Filter>
+    </Image>
+    <Image Include="..\..\..\Downloads\goku\goku3.png">
+      <Filter>Resource Files\assets\goku</Filter>
+    </Image>
+    <Image Include="..\..\..\Downloads\goku\goku2.png">
+      <Filter>Resource Files\assets\goku</Filter>
+    </Image>
+    <Image Include="..\..\..\Downloads\goku\goku1.png">
+      <Filter>Resource Files\assets\goku</Filter>
+    </Image>
+    <Image Include="..\..\..\Downloads\freeza4.png">
+      <Filter>Resource Files\assets\freeza</Filter>
+    </Image>
+    <Image Include="..\..\..\Downloads\freeza3.png">
+      <Filter>Resource Files\assets\freeza</Filter>
+    </Image>
+    <Image Include="..\..\..\Downloads\freeza2.png">
+      <Filter>Resource Files\assets\freeza</Filter>
+    </Image>
+    <Image Include="..\..\..\Downloads\freeza1.png">
+      <Filter>Resource Files\assets\freeza</Filter>
+    </Image>
+    <Image Include="..\..\..\Downloads\goku8.png">
+      <Filter>Resource Files\assets\goku</Filter>
+    </Image>
+    <Image Include="..\..\..\Downloads\goku7.png">
+      <Filter>Resource Files\assets\goku</Filter>
+    </Image>
+    <Image Include="..\..\..\Downloads\goku6.png">
+      <Filter>Resource Files\assets\goku</Filter>
+    </Image>
+    <Image Include="..\..\..\Downloads\goku5.png">
+      <Filter>Resource Files\assets\goku</Filter>
+    </Image>
+    <Image Include="..\..\..\Downloads\freeza5.png">
+      <Filter>Resource Files\assets\freeza</Filter>
+    </Image>
+    <Image Include="..\..\..\Downloads\freeza7.png">
+      <Filter>Resource Files\assets\freeza</Filter>
+    </Image>
+    <Image Include="..\..\..\Downloads\freeza6.png">
+      <Filter>Resource Files\assets\freeza</Filter>
+    </Image>
+    <Image Include="assets\freeza\freeza8.png">
+      <Filter>Resource Files\assets\freeza</Filter>
+    </Image>
+  </ItemGroup>
+</Project>

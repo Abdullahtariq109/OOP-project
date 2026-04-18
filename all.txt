@@ -1,0 +1,379 @@
+#include <SFML/Graphics.hpp>
+#include <iostream>
+#pragma once
+class cell
+{
+	public:
+	sf::Texture CellTexture[8];
+	virtual void LoadTexture(sf::Texture* temp);
+};
+class goku
+{
+	public:
+	sf::Texture GokuTexture[8];
+	virtual void LoadTexture(sf::Texture* temp);
+};
+class freeza
+{
+	public:
+	sf::Texture FreezaTexture[8];
+	virtual void LoadTexture(sf::Texture* temp);
+};#include "characters.h"
+#pragma once
+
+const int ground = 720;
+extern float dt;
+void DeltaTime();
+class Players;
+
+class movement
+{
+	public:
+	Players* player = nullptr;
+	float VelocityX = 500.f;
+	bool IsMoving = false;
+	void Movement();
+};
+
+class jumping
+{
+	public:
+	Players* player = nullptr;
+	bool isjumping = false;
+	int startY = 0;
+	float VelocityY = 0;
+	float gravity = 2000.f;
+	float jumpStrength = -1000.f;
+	float jumpHeight = 1000.f;
+	void jump();
+	void Updatejump();
+};
+
+class animations
+{
+	public:
+		Players* player = nullptr;
+		int IdleFrames = 0;
+		int MovementFrames = 4;
+		void IdleAnimation();
+		void MovementAnimation();
+};
+
+class Loadtextures :public cell, public goku, public freeza
+{
+	public:
+	sf::Texture Textures[8];
+	void LoadTexture(sf::Texture* temp) override;
+	void SetCharacterTexture();
+	Loadtextures()
+	{
+		SetCharacterTexture();
+	}
+};
+class Players : public movement,public jumping , public animations
+{
+	public:
+	int PlayerNumber;
+	int x;
+	int y;
+	sf::Clock clock;
+	sf::Texture PlayerTexture[8];
+	sf::Sprite Sprite;
+	Players()
+	{
+		movement::player = this;
+		jumping::player = this;
+		animations::player = this;
+		static int nextPlayerNumber = 1;
+		PlayerNumber = nextPlayerNumber;
+		nextPlayerNumber++;
+		clock.restart();
+		Loadtextures ChosenTexture;
+		for (int i = 0; i < 8; i++)
+		{
+			PlayerTexture[i] = ChosenTexture.Textures[i];
+		}
+		x = 100;
+		Sprite.setTexture(PlayerTexture[0]);
+		Sprite.setScale(3.f, 3.f);
+		y = ground - Sprite.getGlobalBounds().height;
+		if (PlayerNumber == 1)
+		{
+			Sprite.setPosition(x, y);
+		}
+		if (PlayerNumber == 2)
+		{
+			Sprite.setPosition(x + 400, y);
+		}
+	}
+};
+
+extern Players player1;
+extern Players player2;#include "Game.h"
+#pragma once
+class window
+{
+public:
+
+	sf::RenderWindow MainWindow;
+	sf::Event event;
+
+	window() : MainWindow(sf::VideoMode(1280, 720), "game"), event()
+	{}
+
+	void CloseWindow();
+	void HandleEvents();
+	void DisplayWindow();
+	bool WindowisOpen() const;
+	void DrawLoop();
+};
+
+#include "sfml.h"
+
+bool window::WindowisOpen() const
+{
+	if (MainWindow.isOpen())
+	{
+		return true;
+	}
+	else
+	{
+		return false;
+	}
+}
+void window::CloseWindow()
+{
+	if (event.type == sf::Event::Closed)
+	{
+		MainWindow.close();
+	}
+}#include "sfml.h"
+static void debug()
+{
+    std::string display;
+    if (player1.IsMoving)
+        display += "MOVING";
+    else
+        display += "      ";
+
+    display += " | ";
+
+    if (player1.isjumping)
+        display += "JUMPING";
+    else
+        display += "       ";
+
+    std::cout << "\r" << display << std::flush;
+}#include "sfml.h"
+
+float dt;
+void DeltaTime()
+{
+    static sf::Clock clock;
+    dt = clock.restart().asSeconds();
+    if (dt > 0.2f)
+    {
+        dt = 0.2f;
+    }
+}#include "sfml.h"
+
+void window::DisplayWindow()
+{
+	MainWindow.clear(sf::Color::Black);
+	DrawLoop();
+	MainWindow.display();
+
+}#include "debugging.cpp"
+
+void window::DrawLoop()
+{
+	player1.IdleAnimation();
+	player2.IdleAnimation();
+	player1.MovementAnimation();
+	player2.MovementAnimation();
+	MainWindow.draw(player1.Sprite);
+	MainWindow.draw(player2.Sprite);
+	debug();
+}#include "sfml.h"
+
+void window::HandleEvents()
+{
+	if (event.type == sf::Event::KeyPressed) {
+		if (event.key.code == sf::Keyboard::W) {
+			player1.jump();
+		}
+	}
+	if(event.type == sf::Event::KeyPressed)
+	{
+		if (event.key.code == sf::Keyboard::Up)
+		{
+			player2.jump();
+		}
+	}
+	CloseWindow();
+}#include "sfml.h"
+void animations :: IdleAnimation()
+{
+	
+	if(player->clock.getElapsedTime().asSeconds() >= 0.3f)
+	{
+		if (!player->IsMoving && !player->isjumping)
+		{
+			player->Sprite.setTexture(player->PlayerTexture[player->IdleFrames]);
+			player->clock.restart();
+			player->IdleFrames++;
+			if (player->IdleFrames > 3) player->IdleFrames = 0;
+		}
+	}
+}#include "sfml.h"
+
+void jumping::jump()
+{
+	if (!isjumping)
+	{
+		isjumping = true;
+		startY = player->Sprite.getPosition().y;
+		VelocityY = jumpStrength;
+	}
+}
+void jumping::Updatejump()
+{
+	if (isjumping)
+	{
+
+		VelocityY += gravity * dt;
+		player->Sprite.move(0, VelocityY * dt);
+		if (player->Sprite.getPosition().y <= startY - jumpHeight) {
+			VelocityY = 0;
+		}
+		if (player->Sprite.getPosition().y >= ground - player->Sprite.getGlobalBounds().height)
+		{
+			player->Sprite.setPosition(player->Sprite.getPosition().x, ground - player->Sprite.getGlobalBounds().height);
+			isjumping = false;
+			VelocityY = 0;
+		}
+	}
+}#include "sfml.h"
+void cell::LoadTexture(sf::Texture* temp)
+{
+	CellTexture[0].loadFromFile("assets/cell/cell1.png");
+	CellTexture[1].loadFromFile("assets/cell/cell2.png");
+	CellTexture[2].loadFromFile("assets/cell/cell3.png");
+	CellTexture[3].loadFromFile("assets/cell/cell4.png");
+	CellTexture[4].loadFromFile("assets/cell/cell1.png");
+	CellTexture[5].loadFromFile("assets/cell/cell2.png");
+	CellTexture[6].loadFromFile("assets/cell/cell3.png");
+	CellTexture[7].loadFromFile("assets/cell/cell4.png");
+	for(int i = 0; i < 8; i++)
+	{
+		temp[i] = CellTexture[i];
+	}
+}#include "sfml.h"
+void freeza::LoadTexture(sf::Texture* temp)
+{
+	FreezaTexture[0].loadFromFile("assets/freeza/freeza1.png");
+	FreezaTexture[1].loadFromFile("assets/freeza/freeza2.png");
+	FreezaTexture[2].loadFromFile("assets/freeza/freeza3.png");
+	FreezaTexture[3].loadFromFile("assets/freeza/freeza4.png");
+	FreezaTexture[4].loadFromFile("assets/freeza/freeza5.png");
+	FreezaTexture[5].loadFromFile("assets/freeza/freeza6.png");
+	FreezaTexture[6].loadFromFile("assets/freeza/freeza7.png");
+	FreezaTexture[7].loadFromFile("assets/freeza/freeza8.png");
+	for (int i = 0; i < 8; i++)
+	{
+		temp[i] = FreezaTexture[i];
+	}
+}#include "sfml.h"
+void goku :: LoadTexture(sf::Texture* temp)
+{
+	GokuTexture[0].loadFromFile("assets/goku/goku1.png");
+	GokuTexture[1].loadFromFile("assets/goku/goku2.png");
+	GokuTexture[2].loadFromFile("assets/goku/goku3.png");
+	GokuTexture[3].loadFromFile("assets/goku/goku4.png");
+	GokuTexture[4].loadFromFile("assets/goku/goku5.png");
+	GokuTexture[5].loadFromFile("assets/goku/goku6.png");
+	GokuTexture[6].loadFromFile("assets/goku/goku7.png");
+	GokuTexture[7].loadFromFile("assets/goku/goku8.png");
+	for(int i = 0; i < 8; i++)
+	{
+		temp[i] = GokuTexture[i];
+	}
+}#include "sfml.h"
+Players player1;
+Players player2;
+int main()
+{
+	window GameWindow;
+
+	while (GameWindow.WindowisOpen())
+	{	
+		DeltaTime();
+		while (GameWindow.MainWindow.pollEvent(GameWindow.event))
+		{
+			GameWindow.HandleEvents();
+		}
+		player1.Updatejump();
+		player1.Movement();
+		player2.Updatejump();
+		player2.Movement();
+		GameWindow.DisplayWindow();
+	}
+	return 0;
+}#include "sfml.h"
+void animations :: MovementAnimation()
+{
+	if (player->clock.getElapsedTime().asSeconds() >= 0.2f)
+	{
+		if (player->IsMoving)
+		{
+			player->Sprite.setTexture(player->PlayerTexture[player->MovementFrames]);
+			player->clock.restart();
+			player->MovementFrames++;
+			if (player->MovementFrames > 7) player->MovementFrames = 4;
+		}
+	}
+}#include "sfml.h"
+
+void movement::Movement()
+{	
+		player->IsMoving = false;
+	if (sf::Keyboard::isKeyPressed(sf::Keyboard::D)&& player->PlayerNumber == 1)
+	{
+		player->Sprite.move(VelocityX * dt, 0.f);
+		player->IsMoving = true;
+	}
+	if (sf::Keyboard::isKeyPressed(sf::Keyboard::A)&& player->PlayerNumber == 1)
+	{
+		player->Sprite.move(-VelocityX * dt, 0.f);
+		player->IsMoving = true;
+	}
+	if(sf::Keyboard::isKeyPressed(sf::Keyboard::Right)&& player->PlayerNumber == 2)
+	{
+		player->Sprite.move(VelocityX * dt, 0.f);
+		player->IsMoving = true;
+	}
+	if(sf::Keyboard::isKeyPressed(sf::Keyboard::Left)&& player->PlayerNumber == 2)
+	{
+		player->Sprite.move(-VelocityX * dt, 0.f);
+		player->IsMoving = true;
+	}
+}#include "sfml.h"
+void Loadtextures::LoadTexture(sf::Texture* temp){}
+void Loadtextures::SetCharacterTexture()
+{
+	int choice;
+	std::cout << "Choose your character: " << std::endl;
+	std::cin >> choice;
+	if(choice == 1)
+	{
+		cell::LoadTexture(Textures);
+	}
+	else if(choice == 2)
+	{
+		goku::LoadTexture(Textures);
+	}
+	else if (choice == 3)
+	{
+		freeza::LoadTexture(Textures);
+	}
+}
