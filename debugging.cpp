@@ -5,7 +5,7 @@ static void debug()
     if (player1.IsMoving)
         display += "MOVING";
     else
-    display += "      ";
+        display += "      ";
     display += " | ";
 
     if (player1.isjumping)

@@ -10,7 +10,7 @@ void cell::LoadTexture(sf::Texture* temp)
 	CellTexture[5].loadFromFile("assets/cell/cell2.png");
 	CellTexture[6].loadFromFile("assets/cell/cell3.png");
 	CellTexture[7].loadFromFile("assets/cell/cell4.png");
-	for(int i = 0; i < 8; i++)
+	for (int i = 0; i < 8; i++)
 	{
 		temp[i] = CellTexture[i];
 	}

@@ -4,9 +4,8 @@ Players player2;
 int main()
 {
 	window GameWindow;
-
 	while (GameWindow.WindowisOpen())
-	{	
+	{
 		DeltaTime();
 		while (GameWindow.MainWindow.pollEvent(GameWindow.event))
 		{

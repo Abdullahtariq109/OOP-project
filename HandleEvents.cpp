@@ -7,7 +7,7 @@ void window::HandleEvents()
 			player1.jump();
 		}
 	}
-	if(event.type == sf::Event::KeyPressed)
+	if (event.type == sf::Event::KeyPressed)
 	{
 		if (event.key.code == sf::Keyboard::Up)
 		{

@@ -4,11 +4,12 @@
 const int ground = 720;
 extern float dt;
 void DeltaTime();
+void resize();
 class Players;
 
 class movement
 {
-	public:
+public:
 	Players* player = nullptr;
 	float VelocityX = 500.f;
 	bool IsMoving = false;
@@ -17,7 +18,7 @@ class movement
 
 class jumping
 {
-	public:
+public:
 	Players* player = nullptr;
 	bool isjumping = false;
 	int startY = 0;
@@ -31,17 +32,17 @@ class jumping
 
 class animations
 {
-	public:
-		Players* player = nullptr;
-		int IdleFrames = 0;
-		int MovementFrames = 4;
-		void IdleAnimation();
-		void MovementAnimation();
+public:
+	Players* player = nullptr;
+	int IdleFrames = 0;
+	int MovementFrames = 4;
+	void IdleAnimation();
+	void MovementAnimation();
 };
 
 class Loadtextures :public cell, public goku, public freeza
 {
-	public:
+public:
 	sf::Texture Textures[8];
 	void LoadTexture(sf::Texture* temp) override;
 	void SetCharacterTexture();
@@ -50,9 +51,9 @@ class Loadtextures :public cell, public goku, public freeza
 		SetCharacterTexture();
 	}
 };
-class Players : public movement,public jumping , public animations
+class Players : public movement, public jumping, public animations
 {
-	public:
+public:
 	int PlayerNumber;
 	int x;
 	int y;
@@ -86,7 +87,6 @@ class Players : public movement,public jumping , public animations
 			Sprite.setPosition(x + 400, y);
 		}
 	}
-	void resize();
 };
 
 extern Players player1;

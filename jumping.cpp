@@ -19,11 +19,5 @@ void jumping::Updatejump()
 		if (player->Sprite.getPosition().y <= startY - jumpHeight) {
 			VelocityY = 0;
 		}
-		if (player->Sprite.getPosition().y >= ground - player->Sprite.getGlobalBounds().height)
-		{
-			player->Sprite.setPosition(player->Sprite.getPosition().x, ground - player->Sprite.getGlobalBounds().height);
-			isjumping = false;
-			VelocityY = 0;
-		}
 	}
 }
