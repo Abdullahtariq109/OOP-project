@@ -3,6 +3,74 @@
   "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\Abdullahtariq109\\OOP-project\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{55916D53-8137-43BA-B4E6-E0F669B0988E}|semester 2 project.vcxproj|C:\\Users\\HP\\source\\repos\\Abdullahtariq109\\OOP-project\\movment.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{55916D53-8137-43BA-B4E6-E0F669B0988E}|semester 2 project.vcxproj|solutionrelative:movment.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55916D53-8137-43BA-B4E6-E0F669B0988E}|semester 2 project.vcxproj|C:\\Users\\HP\\source\\repos\\Abdullahtariq109\\OOP-project\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{55916D53-8137-43BA-B4E6-E0F669B0988E}|semester 2 project.vcxproj|solutionrelative:Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55916D53-8137-43BA-B4E6-E0F669B0988E}|semester 2 project.vcxproj|C:\\Users\\HP\\source\\repos\\Abdullahtariq109\\OOP-project\\MovementAnimation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{55916D53-8137-43BA-B4E6-E0F669B0988E}|semester 2 project.vcxproj|solutionrelative:MovementAnimation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55916D53-8137-43BA-B4E6-E0F669B0988E}|semester 2 project.vcxproj|C:\\Users\\HP\\source\\repos\\Abdullahtariq109\\OOP-project\\sfml.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{55916D53-8137-43BA-B4E6-E0F669B0988E}|semester 2 project.vcxproj|solutionrelative:sfml.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55916D53-8137-43BA-B4E6-E0F669B0988E}|semester 2 project.vcxproj|C:\\Users\\HP\\source\\repos\\Abdullahtariq109\\OOP-project\\SetTexture.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{55916D53-8137-43BA-B4E6-E0F669B0988E}|semester 2 project.vcxproj|solutionrelative:SetTexture.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55916D53-8137-43BA-B4E6-E0F669B0988E}|semester 2 project.vcxproj|C:\\Users\\HP\\source\\repos\\Abdullahtariq109\\OOP-project\\resize.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{55916D53-8137-43BA-B4E6-E0F669B0988E}|semester 2 project.vcxproj|solutionrelative:resize.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55916D53-8137-43BA-B4E6-E0F669B0988E}|semester 2 project.vcxproj|C:\\Users\\HP\\source\\repos\\Abdullahtariq109\\OOP-project\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{55916D53-8137-43BA-B4E6-E0F669B0988E}|semester 2 project.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55916D53-8137-43BA-B4E6-E0F669B0988E}|semester 2 project.vcxproj|C:\\Users\\HP\\source\\repos\\Abdullahtariq109\\OOP-project\\Load_cell_Textures.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{55916D53-8137-43BA-B4E6-E0F669B0988E}|semester 2 project.vcxproj|solutionrelative:Load_cell_Textures.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55916D53-8137-43BA-B4E6-E0F669B0988E}|semester 2 project.vcxproj|C:\\Users\\HP\\source\\repos\\Abdullahtariq109\\OOP-project\\jumping.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{55916D53-8137-43BA-B4E6-E0F669B0988E}|semester 2 project.vcxproj|solutionrelative:jumping.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55916D53-8137-43BA-B4E6-E0F669B0988E}|semester 2 project.vcxproj|C:\\Users\\HP\\source\\repos\\Abdullahtariq109\\OOP-project\\IdleAnimation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{55916D53-8137-43BA-B4E6-E0F669B0988E}|semester 2 project.vcxproj|solutionrelative:IdleAnimation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55916D53-8137-43BA-B4E6-E0F669B0988E}|semester 2 project.vcxproj|C:\\Users\\HP\\source\\repos\\Abdullahtariq109\\OOP-project\\HandleEvents.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{55916D53-8137-43BA-B4E6-E0F669B0988E}|semester 2 project.vcxproj|solutionrelative:HandleEvents.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55916D53-8137-43BA-B4E6-E0F669B0988E}|semester 2 project.vcxproj|C:\\Users\\HP\\source\\repos\\Abdullahtariq109\\OOP-project\\DrawLoop.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{55916D53-8137-43BA-B4E6-E0F669B0988E}|semester 2 project.vcxproj|solutionrelative:DrawLoop.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55916D53-8137-43BA-B4E6-E0F669B0988E}|semester 2 project.vcxproj|C:\\Users\\HP\\source\\repos\\Abdullahtariq109\\OOP-project\\DisplayWindow.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{55916D53-8137-43BA-B4E6-E0F669B0988E}|semester 2 project.vcxproj|solutionrelative:DisplayWindow.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55916D53-8137-43BA-B4E6-E0F669B0988E}|semester 2 project.vcxproj|C:\\Users\\HP\\source\\repos\\Abdullahtariq109\\OOP-project\\Basic sfml definitons.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{55916D53-8137-43BA-B4E6-E0F669B0988E}|semester 2 project.vcxproj|solutionrelative:Basic sfml definitons.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55916D53-8137-43BA-B4E6-E0F669B0988E}|semester 2 project.vcxproj|C:\\Users\\HP\\source\\repos\\Abdullahtariq109\\OOP-project\\deltatime.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{55916D53-8137-43BA-B4E6-E0F669B0988E}|semester 2 project.vcxproj|solutionrelative:deltatime.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55916D53-8137-43BA-B4E6-E0F669B0988E}|semester 2 project.vcxproj|C:\\Users\\HP\\source\\repos\\Abdullahtariq109\\OOP-project\\debugging.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{55916D53-8137-43BA-B4E6-E0F669B0988E}|semester 2 project.vcxproj|solutionrelative:debugging.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55916D53-8137-43BA-B4E6-E0F669B0988E}|semester 2 project.vcxproj|C:\\Users\\HP\\source\\repos\\Abdullahtariq109\\OOP-project\\characters.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{55916D53-8137-43BA-B4E6-E0F669B0988E}|semester 2 project.vcxproj|solutionrelative:characters.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{55916D53-8137-43BA-B4E6-E0F669B0988E}|semester 2 project.vcxproj|C:\\Users\\HP\\source\\repos\\Abdullahtariq109\\OOP-project\\Load_freeza_Textures.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{55916D53-8137-43BA-B4E6-E0F669B0988E}|semester 2 project.vcxproj|solutionrelative:Load_freeza_Textures.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -14,7 +82,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,7 +90,228 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Abdullahtariq109\\OOP-project\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Abdullahtariq109\\OOP-project\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-19T08:34:45.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "movment.cpp",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Abdullahtariq109\\OOP-project\\movment.cpp",
+              "RelativeDocumentMoniker": "movment.cpp",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Abdullahtariq109\\OOP-project\\movment.cpp*",
+              "RelativeToolTip": "movment.cpp*",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-19T08:32:47.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MovementAnimation.cpp",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Abdullahtariq109\\OOP-project\\MovementAnimation.cpp",
+              "RelativeDocumentMoniker": "MovementAnimation.cpp",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Abdullahtariq109\\OOP-project\\MovementAnimation.cpp",
+              "RelativeToolTip": "MovementAnimation.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-19T08:27:12.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "resize.cpp",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Abdullahtariq109\\OOP-project\\resize.cpp",
+              "RelativeDocumentMoniker": "resize.cpp",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Abdullahtariq109\\OOP-project\\resize.cpp",
+              "RelativeToolTip": "resize.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-19T08:27:40.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SetTexture.cpp",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Abdullahtariq109\\OOP-project\\SetTexture.cpp",
+              "RelativeDocumentMoniker": "SetTexture.cpp",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Abdullahtariq109\\OOP-project\\SetTexture.cpp",
+              "RelativeToolTip": "SetTexture.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-19T08:27:43.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "sfml.h",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Abdullahtariq109\\OOP-project\\sfml.h",
+              "RelativeDocumentMoniker": "sfml.h",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Abdullahtariq109\\OOP-project\\sfml.h",
+              "RelativeToolTip": "sfml.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-19T08:26:22.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Game.h",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Abdullahtariq109\\OOP-project\\Game.h",
+              "RelativeDocumentMoniker": "Game.h",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Abdullahtariq109\\OOP-project\\Game.h",
+              "RelativeToolTip": "Game.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-19T08:11:48.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Load_cell_Textures.cpp",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Abdullahtariq109\\OOP-project\\Load_cell_Textures.cpp",
+              "RelativeDocumentMoniker": "Load_cell_Textures.cpp",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Abdullahtariq109\\OOP-project\\Load_cell_Textures.cpp",
+              "RelativeToolTip": "Load_cell_Textures.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-19T08:33:29.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "jumping.cpp",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Abdullahtariq109\\OOP-project\\jumping.cpp",
+              "RelativeDocumentMoniker": "jumping.cpp",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Abdullahtariq109\\OOP-project\\jumping.cpp",
+              "RelativeToolTip": "jumping.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-19T08:32:11.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HandleEvents.cpp",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Abdullahtariq109\\OOP-project\\HandleEvents.cpp",
+              "RelativeDocumentMoniker": "HandleEvents.cpp",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Abdullahtariq109\\OOP-project\\HandleEvents.cpp",
+              "RelativeToolTip": "HandleEvents.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-19T08:29:53.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DrawLoop.cpp",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Abdullahtariq109\\OOP-project\\DrawLoop.cpp",
+              "RelativeDocumentMoniker": "DrawLoop.cpp",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Abdullahtariq109\\OOP-project\\DrawLoop.cpp",
+              "RelativeToolTip": "DrawLoop.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-19T08:30:33.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DisplayWindow.cpp",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Abdullahtariq109\\OOP-project\\DisplayWindow.cpp",
+              "RelativeDocumentMoniker": "DisplayWindow.cpp",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Abdullahtariq109\\OOP-project\\DisplayWindow.cpp",
+              "RelativeToolTip": "DisplayWindow.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-19T08:28:08.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IdleAnimation.cpp",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Abdullahtariq109\\OOP-project\\IdleAnimation.cpp",
+              "RelativeDocumentMoniker": "IdleAnimation.cpp",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Abdullahtariq109\\OOP-project\\IdleAnimation.cpp",
+              "RelativeToolTip": "IdleAnimation.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-19T08:26:33.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Basic sfml definitons.cpp",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Abdullahtariq109\\OOP-project\\Basic sfml definitons.cpp",
+              "RelativeDocumentMoniker": "Basic sfml definitons.cpp",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Abdullahtariq109\\OOP-project\\Basic sfml definitons.cpp",
+              "RelativeToolTip": "Basic sfml definitons.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-19T08:27:55.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "deltatime.cpp",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Abdullahtariq109\\OOP-project\\deltatime.cpp",
+              "RelativeDocumentMoniker": "deltatime.cpp",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Abdullahtariq109\\OOP-project\\deltatime.cpp",
+              "RelativeToolTip": "deltatime.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-19T08:27:41.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "debugging.cpp",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Abdullahtariq109\\OOP-project\\debugging.cpp",
+              "RelativeDocumentMoniker": "debugging.cpp",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Abdullahtariq109\\OOP-project\\debugging.cpp",
+              "RelativeToolTip": "debugging.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-19T08:27:23.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "characters.h",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Abdullahtariq109\\OOP-project\\characters.h",
+              "RelativeDocumentMoniker": "characters.h",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Abdullahtariq109\\OOP-project\\characters.h",
+              "RelativeToolTip": "characters.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-19T08:11:42.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "Load_freeza_Textures.cpp",
               "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Abdullahtariq109\\OOP-project\\Load_freeza_Textures.cpp",
               "RelativeDocumentMoniker": "Load_freeza_Textures.cpp",

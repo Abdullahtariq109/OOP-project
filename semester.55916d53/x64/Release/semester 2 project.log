@@ -1,141 +1,241 @@
-﻿  debugging.cpp
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(79,14): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(79,14): warning C4244:         with
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(79,14): warning C4244:         [
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(79,14): warning C4244:             T=float
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(79,14): warning C4244:         ]
-  (compiling source file 'debugging.cpp')
+﻿  Basic sfml definitons.cpp
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(81,14): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(81,14): warning C4244:         with
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(81,14): warning C4244:         [
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(81,14): warning C4244:             T=float
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(81,14): warning C4244:         ]
+  (compiling source file 'Basic%20sfml%20definitons.cpp')
   
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(82,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-  (compiling source file 'debugging.cpp')
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(84,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Basic%20sfml%20definitons.cpp')
   
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(82,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-  (compiling source file 'debugging.cpp')
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(84,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Basic%20sfml%20definitons.cpp')
   
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(86,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-  (compiling source file 'debugging.cpp')
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(88,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Basic%20sfml%20definitons.cpp')
   
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(86,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-  (compiling source file 'debugging.cpp')
-  
-  deltatime.cpp
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(79,14): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(79,14): warning C4244:         with
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(79,14): warning C4244:         [
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(79,14): warning C4244:             T=float
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(79,14): warning C4244:         ]
-  (compiling source file 'deltatime.cpp')
-  
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(82,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-  (compiling source file 'deltatime.cpp')
-  
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(82,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-  (compiling source file 'deltatime.cpp')
-  
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(86,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-  (compiling source file 'deltatime.cpp')
-  
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(86,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-  (compiling source file 'deltatime.cpp')
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(88,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Basic%20sfml%20definitons.cpp')
   
   DisplayWindow.cpp
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(79,14): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(79,14): warning C4244:         with
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(79,14): warning C4244:         [
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(79,14): warning C4244:             T=float
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(79,14): warning C4244:         ]
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(81,14): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(81,14): warning C4244:         with
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(81,14): warning C4244:         [
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(81,14): warning C4244:             T=float
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(81,14): warning C4244:         ]
   (compiling source file 'DisplayWindow.cpp')
   
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(82,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(84,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
   (compiling source file 'DisplayWindow.cpp')
   
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(82,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(84,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
   (compiling source file 'DisplayWindow.cpp')
   
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(86,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(88,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
   (compiling source file 'DisplayWindow.cpp')
   
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(86,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(88,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
   (compiling source file 'DisplayWindow.cpp')
-  
-  DrawLoop.cpp
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(79,14): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(79,14): warning C4244:         with
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(79,14): warning C4244:         [
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(79,14): warning C4244:             T=float
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(79,14): warning C4244:         ]
-  (compiling source file 'DrawLoop.cpp')
-  
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(82,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-  (compiling source file 'DrawLoop.cpp')
-  
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(82,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-  (compiling source file 'DrawLoop.cpp')
-  
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(86,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-  (compiling source file 'DrawLoop.cpp')
-  
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(86,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-  (compiling source file 'DrawLoop.cpp')
   
   HandleEvents.cpp
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(79,14): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(79,14): warning C4244:         with
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(79,14): warning C4244:         [
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(79,14): warning C4244:             T=float
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(79,14): warning C4244:         ]
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(81,14): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(81,14): warning C4244:         with
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(81,14): warning C4244:         [
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(81,14): warning C4244:             T=float
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(81,14): warning C4244:         ]
   (compiling source file 'HandleEvents.cpp')
   
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(82,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(84,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
   (compiling source file 'HandleEvents.cpp')
   
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(82,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(84,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
   (compiling source file 'HandleEvents.cpp')
   
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(86,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(88,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
   (compiling source file 'HandleEvents.cpp')
   
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(86,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(88,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
   (compiling source file 'HandleEvents.cpp')
   
   IdleAnimation.cpp
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(79,14): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(79,14): warning C4244:         with
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(79,14): warning C4244:         [
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(79,14): warning C4244:             T=float
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(79,14): warning C4244:         ]
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(81,14): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(81,14): warning C4244:         with
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(81,14): warning C4244:         [
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(81,14): warning C4244:             T=float
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(81,14): warning C4244:         ]
   (compiling source file 'IdleAnimation.cpp')
   
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(82,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(84,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
   (compiling source file 'IdleAnimation.cpp')
   
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(82,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(84,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
   (compiling source file 'IdleAnimation.cpp')
   
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(86,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(88,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
   (compiling source file 'IdleAnimation.cpp')
   
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(86,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(88,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
   (compiling source file 'IdleAnimation.cpp')
+  
+  Load_cell_Textures.cpp
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(81,14): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(81,14): warning C4244:         with
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(81,14): warning C4244:         [
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(81,14): warning C4244:             T=float
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(81,14): warning C4244:         ]
+  (compiling source file 'Load_cell_Textures.cpp')
+  
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(84,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Load_cell_Textures.cpp')
+  
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(84,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Load_cell_Textures.cpp')
+  
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(88,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Load_cell_Textures.cpp')
+  
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(88,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Load_cell_Textures.cpp')
+  
+  Load_freeza_Textures.cpp
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(81,14): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(81,14): warning C4244:         with
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(81,14): warning C4244:         [
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(81,14): warning C4244:             T=float
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(81,14): warning C4244:         ]
+  (compiling source file 'Load_freeza_Textures.cpp')
+  
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(84,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Load_freeza_Textures.cpp')
+  
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(84,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Load_freeza_Textures.cpp')
+  
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(88,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Load_freeza_Textures.cpp')
+  
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(88,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Load_freeza_Textures.cpp')
+  
+  Load_goku_Textures.cpp
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(81,14): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(81,14): warning C4244:         with
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(81,14): warning C4244:         [
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(81,14): warning C4244:             T=float
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(81,14): warning C4244:         ]
+  (compiling source file 'Load_goku_Textures.cpp')
+  
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(84,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Load_goku_Textures.cpp')
+  
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(84,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Load_goku_Textures.cpp')
+  
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(88,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Load_goku_Textures.cpp')
+  
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(88,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Load_goku_Textures.cpp')
+  
+  MovementAnimation.cpp
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(81,14): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(81,14): warning C4244:         with
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(81,14): warning C4244:         [
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(81,14): warning C4244:             T=float
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(81,14): warning C4244:         ]
+  (compiling source file 'MovementAnimation.cpp')
+  
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(84,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'MovementAnimation.cpp')
+  
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(84,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'MovementAnimation.cpp')
+  
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(88,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'MovementAnimation.cpp')
+  
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(88,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'MovementAnimation.cpp')
+  
+  SetTexture.cpp
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(81,14): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(81,14): warning C4244:         with
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(81,14): warning C4244:         [
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(81,14): warning C4244:             T=float
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(81,14): warning C4244:         ]
+  (compiling source file 'SetTexture.cpp')
+  
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(84,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'SetTexture.cpp')
+  
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(84,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'SetTexture.cpp')
+  
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(88,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'SetTexture.cpp')
+  
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(88,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'SetTexture.cpp')
+  
+  debugging.cpp
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(81,14): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(81,14): warning C4244:         with
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(81,14): warning C4244:         [
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(81,14): warning C4244:             T=float
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(81,14): warning C4244:         ]
+  (compiling source file 'debugging.cpp')
+  
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(84,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'debugging.cpp')
+  
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(84,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'debugging.cpp')
+  
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(88,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'debugging.cpp')
+  
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(88,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'debugging.cpp')
+  
+  deltatime.cpp
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(81,14): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(81,14): warning C4244:         with
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(81,14): warning C4244:         [
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(81,14): warning C4244:             T=float
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(81,14): warning C4244:         ]
+  (compiling source file 'deltatime.cpp')
+  
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(84,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'deltatime.cpp')
+  
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(84,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'deltatime.cpp')
+  
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(88,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'deltatime.cpp')
+  
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(88,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'deltatime.cpp')
   
   jumping.cpp
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(79,14): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(79,14): warning C4244:         with
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(79,14): warning C4244:         [
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(79,14): warning C4244:             T=float
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(79,14): warning C4244:         ]
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(81,14): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(81,14): warning C4244:         with
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(81,14): warning C4244:         [
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(81,14): warning C4244:             T=float
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(81,14): warning C4244:         ]
   (compiling source file 'jumping.cpp')
   
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(82,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(84,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
   (compiling source file 'jumping.cpp')
   
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(82,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(84,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
   (compiling source file 'jumping.cpp')
   
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(86,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(88,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
   (compiling source file 'jumping.cpp')
   
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(86,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(88,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
   (compiling source file 'jumping.cpp')
   
 C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\jumping.cpp(8,40): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
@@ -143,188 +243,69 @@ C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\jumping.cpp(8,40): warning
 C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\jumping.cpp(8,40): warning C4244:         [
 C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\jumping.cpp(8,40): warning C4244:             T=float
 C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\jumping.cpp(8,40): warning C4244:         ]
-  Load_cell_Textures.cpp
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(79,14): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(79,14): warning C4244:         with
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(79,14): warning C4244:         [
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(79,14): warning C4244:             T=float
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(79,14): warning C4244:         ]
-  (compiling source file 'Load_cell_Textures.cpp')
-  
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(82,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-  (compiling source file 'Load_cell_Textures.cpp')
-  
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(82,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-  (compiling source file 'Load_cell_Textures.cpp')
-  
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(86,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-  (compiling source file 'Load_cell_Textures.cpp')
-  
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(86,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-  (compiling source file 'Load_cell_Textures.cpp')
-  
-  Load_freeza_Textures.cpp
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(79,14): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(79,14): warning C4244:         with
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(79,14): warning C4244:         [
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(79,14): warning C4244:             T=float
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(79,14): warning C4244:         ]
-  (compiling source file 'Load_freeza_Textures.cpp')
-  
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(82,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-  (compiling source file 'Load_freeza_Textures.cpp')
-  
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(82,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-  (compiling source file 'Load_freeza_Textures.cpp')
-  
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(86,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-  (compiling source file 'Load_freeza_Textures.cpp')
-  
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(86,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-  (compiling source file 'Load_freeza_Textures.cpp')
-  
-  Load_goku_Textures.cpp
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(79,14): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(79,14): warning C4244:         with
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(79,14): warning C4244:         [
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(79,14): warning C4244:             T=float
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(79,14): warning C4244:         ]
-  (compiling source file 'Load_goku_Textures.cpp')
-  
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(82,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-  (compiling source file 'Load_goku_Textures.cpp')
-  
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(82,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-  (compiling source file 'Load_goku_Textures.cpp')
-  
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(86,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-  (compiling source file 'Load_goku_Textures.cpp')
-  
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(86,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-  (compiling source file 'Load_goku_Textures.cpp')
-  
   main.cpp
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(79,14): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(79,14): warning C4244:         with
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(79,14): warning C4244:         [
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(79,14): warning C4244:             T=float
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(79,14): warning C4244:         ]
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(81,14): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(81,14): warning C4244:         with
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(81,14): warning C4244:         [
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(81,14): warning C4244:             T=float
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(81,14): warning C4244:         ]
   (compiling source file 'main.cpp')
   
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(82,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(84,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
   (compiling source file 'main.cpp')
   
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(82,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(84,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
   (compiling source file 'main.cpp')
   
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(86,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(88,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
   (compiling source file 'main.cpp')
   
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(86,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(88,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
   (compiling source file 'main.cpp')
-  
-  MovementAnimation.cpp
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(79,14): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(79,14): warning C4244:         with
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(79,14): warning C4244:         [
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(79,14): warning C4244:             T=float
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(79,14): warning C4244:         ]
-  (compiling source file 'MovementAnimation.cpp')
-  
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(82,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-  (compiling source file 'MovementAnimation.cpp')
-  
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(82,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-  (compiling source file 'MovementAnimation.cpp')
-  
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(86,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-  (compiling source file 'MovementAnimation.cpp')
-  
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(86,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-  (compiling source file 'MovementAnimation.cpp')
   
   movment.cpp
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(79,14): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(79,14): warning C4244:         with
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(79,14): warning C4244:         [
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(79,14): warning C4244:             T=float
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(79,14): warning C4244:         ]
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(81,14): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(81,14): warning C4244:         with
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(81,14): warning C4244:         [
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(81,14): warning C4244:             T=float
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(81,14): warning C4244:         ]
   (compiling source file 'movment.cpp')
   
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(82,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(84,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
   (compiling source file 'movment.cpp')
   
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(82,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(84,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
   (compiling source file 'movment.cpp')
   
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(86,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(88,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
   (compiling source file 'movment.cpp')
   
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(86,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(88,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
   (compiling source file 'movment.cpp')
-  
-  Basic sfml definitons.cpp
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(79,14): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(79,14): warning C4244:         with
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(79,14): warning C4244:         [
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(79,14): warning C4244:             T=float
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(79,14): warning C4244:         ]
-  (compiling source file 'Basic%20sfml%20definitons.cpp')
-  
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(82,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-  (compiling source file 'Basic%20sfml%20definitons.cpp')
-  
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(82,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-  (compiling source file 'Basic%20sfml%20definitons.cpp')
-  
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(86,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-  (compiling source file 'Basic%20sfml%20definitons.cpp')
-  
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(86,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-  (compiling source file 'Basic%20sfml%20definitons.cpp')
   
   resize.cpp
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(79,14): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(79,14): warning C4244:         with
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(79,14): warning C4244:         [
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(79,14): warning C4244:             T=float
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(79,14): warning C4244:         ]
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(81,14): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(81,14): warning C4244:         with
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(81,14): warning C4244:         [
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(81,14): warning C4244:             T=float
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(81,14): warning C4244:         ]
   (compiling source file 'resize.cpp')
   
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(82,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(84,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
   (compiling source file 'resize.cpp')
   
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(82,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(84,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
   (compiling source file 'resize.cpp')
   
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(86,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(88,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
   (compiling source file 'resize.cpp')
   
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(86,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(88,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
   (compiling source file 'resize.cpp')
-  
-  SetTexture.cpp
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(79,14): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(79,14): warning C4244:         with
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(79,14): warning C4244:         [
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(79,14): warning C4244:             T=float
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(79,14): warning C4244:         ]
-  (compiling source file 'SetTexture.cpp')
-  
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(82,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-  (compiling source file 'SetTexture.cpp')
-  
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(82,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-  (compiling source file 'SetTexture.cpp')
-  
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(86,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-  (compiling source file 'SetTexture.cpp')
-  
-C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\Game.h(86,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-  (compiling source file 'SetTexture.cpp')
   
   Generating code
-  Previous IPDB not found, fall back to full compilation.
-  All 135 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  8 of 141 functions ( 5.7%) were compiled, the rest were copied from previous compilation.
+    6 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
   Finished generating code
   semester 2 project.vcxproj -> C:\Users\HP\source\repos\Abdullahtariq109\OOP-project\x64\Release\semester 2 project.exe

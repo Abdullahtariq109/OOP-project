@@ -13,6 +13,7 @@ public:
 	Players* player = nullptr;
 	float VelocityX = 500.f;
 	bool IsMoving = false;
+	bool collisionDetected = false;
 	void Movement();
 };
 
